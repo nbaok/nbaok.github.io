@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>test</title>
+    <link href="/nbaok/nbaok.github.io.git/2024/11/26/test/"/>
+    <url>/nbaok/nbaok.github.io.git/2024/11/26/test/</url>
+    
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/nbaok/nbaok.github.io.git/test.png" alt="图片引用方法二"></p><p><img src="/nbaok/nbaok.github.io.git/images/test.png" alt="图片引用方法三"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/nbaok/nbaok.github.io.git/2024/11/26/hello-world/"/>
     <url>/nbaok/nbaok.github.io.git/2024/11/26/hello-world/</url>
