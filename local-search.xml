@@ -4,25 +4,13 @@
   
   
   <entry>
-    <title>test</title>
-    <link href="/nbaok/nbaok.github.io.git/2024/11/26/test/"/>
-    <url>/nbaok/nbaok.github.io.git/2024/11/26/test/</url>
+    <title>about</title>
+    <link href="/nbaok/nbaok.github.io.git/2024/11/26/about/"/>
+    <url>/nbaok/nbaok.github.io.git/2024/11/26/about/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/nbaok/nbaok.github.io.git/test.png" alt="图片引用方法二"></p><p><img src="/nbaok/nbaok.github.io.git/images/test.png" alt="图片引用方法三"></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>Java</category>
-      
-    </categories>
+    <content type="html"><![CDATA[<p>关于我, 使用 hexo 创建的博客</p>]]></content>
     
     
-    <tags>
-      
-      <tag>原创</tag>
-      
-    </tags>
     
   </entry>
   
